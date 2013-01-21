@@ -16,6 +16,10 @@ PRODUCT_COPY_FILES += \
     vendor/pa/prebuilt/common/xbin/su:system/xbin/su \
     vendor/pa/prebuilt/common/xbin/su:system/bib/.ext/.su
 
+# Save build manifest
+PRODUCT_COPY_FILES += \
+    vendor/pa/prebuilt/common/etc/build-manifest.xml:system/etc/build-manifest.xml
+
 # init.d support
 PRODUCT_COPY_FILES += \
     vendor/pa/prebuilt/common/bin/sysinit:system/bin/sysinit \
