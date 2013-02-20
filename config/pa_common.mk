@@ -15,7 +15,7 @@ PRODUCT_COPY_FILES += \
     vendor/pa/prebuilt/common/apk/Term.apk:system/app/Term.apk \
     vendor/pa/prebuilt/common/lib/libjackpal-androidterm4.so:system/lib/libjackpal-androidterm4.so \
     vendor/pa/prebuilt/common/apk/GooManager.apk:system/app/GooManager.apk \
-    vendor/pa/prebuilt/common/apk/SuperSU.apk:system/app/SuperSU.apk \
+    vendor/pa/prebuilt/common/apk/Superuser.apk:system/app/Superuser.apk \
     vendor/pa/prebuilt/common/xbin/su:system/xbin/su \
     vendor/pa/prebuilt/common/xbin/su:system/bib/.ext/.su
 
