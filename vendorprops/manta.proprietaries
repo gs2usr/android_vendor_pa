@@ -19,5 +19,12 @@
         "repository":   "proprietary_vendor_samsung",
         "target_path":  "vendor/samsung",
         "revision":     "cm-10.1"
+    },
+    {
+        "remote":       "aosp",
+        "account":      "platform",
+        "repository":   "hardware/samsung_slsi/exynos5",
+        "target_path":  "hardware/samsung_slsi/exynos5",
+        "branch":       "refs/tags/android-4.2.1_r1.2"
     }
 ]
