@@ -6,12 +6,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Copy specific ROM files
 PRODUCT_COPY_FILES += \
-    vendor/pa/prebuilt/common/apk/AmazonAppstore.apk:system/app/AmazonAppstore.apk \
-    vendor/pa/prebuilt/common/apk/MarketEnabler.apk:system/app/MarketEnabler.apk \
-    vendor/pa/prebuilt/common/apk/AdobeFlashPlayer.apk:system/app/AdobeFlashPlayer.apk \
-    vendor/pa/prebuilt/common/apk/BetterBatteryStats.apk:system/app/BetterBatteryStats.apk \
-    vendor/pa/prebuilt/common/apk/Fdroid.apk:system/app/Fdroid.apk \
-    vendor/pa/prebuilt/common/apk/LuckyPatcher.apk:system/app/LuckyPatcher.apk \
     vendor/pa/prebuilt/common/apk/Term.apk:system/app/Term.apk \
     vendor/pa/prebuilt/common/lib/libjackpal-androidterm4.so:system/lib/libjackpal-androidterm4.so \
     vendor/pa/prebuilt/common/apk/GooManager.apk:system/app/GooManager.apk \
